@@ -6,6 +6,7 @@ It's a client project of DIU students.This apps use on any students and teachers
 - Teacher and Student Identity Caed  generator
   - Make Student Card.
   - Make Teacher Card.
+  - Make Both Card.
   - All features are free.
 
 Any one can use this application.
