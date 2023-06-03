@@ -16,5 +16,5 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-rootProject.name = "Demo"
+rootProject.name = "DIU Card Maker"
 include ':app'
