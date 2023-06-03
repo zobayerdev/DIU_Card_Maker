@@ -17,8 +17,8 @@ public class StudentCardActivity extends AppCompatActivity {
         setContentView(R.layout.activity_student_card);
 
 
-     //   getSupportActionBar().setTitle("Student ID Card");
-     //   getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setTitle("Student ID Card");
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         nameTv = findViewById(R.id.nameTv);
         companyTv = findViewById(R.id.companyTv);

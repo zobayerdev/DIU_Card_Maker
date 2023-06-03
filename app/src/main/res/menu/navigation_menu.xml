@@ -3,6 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/nav_add_teacher"
+        android:icon="@drawable/ic_teacher"
+        android:title="Add Teacher" />
+
+    <item
         android:id="@+id/nav_teacher"
         android:icon="@drawable/teacher"
         android:title="Teacher Card" />
@@ -10,8 +15,7 @@
     <item
         android:id="@+id/nav_student"
         android:icon="@drawable/student"
-        android:title="Student Card"
-        />
+        android:title="Student Card" />
 
     <item
         android:id="@+id/nav_policy"

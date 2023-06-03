@@ -8,6 +8,12 @@
         android:title="Home" />
 
     <item
+        android:id="@+id/bottom_menu_teacher"
+        android:fontFamily="@font/mulish_semibold"
+        android:icon="@drawable/ic_teacher"
+        android:title="Teacher" />
+
+    <item
         android:id="@+id/bottom_menu_about"
         android:fontFamily="@font/mulish_semibold"
         android:icon="@drawable/ic_university"

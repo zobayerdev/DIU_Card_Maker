@@ -21,7 +21,7 @@ public class MakeStudentActivity extends AppCompatActivity {
     private MaterialButton uploadBtn;
     private String name, company, designation, phone, email, home, office, bio, facebook, instagram, linkedin, twitter;
     ArrayAdapter<String> adapterItems;
-    String[] items = {"1st Year",  "2nd Year",  "3rd Year " ,  "4th Year" };
+    String[] items = {"1st Year", "2nd Year", "3rd Year ", "4th Year"};
 
     @SuppressLint("MissingInflatedId")
     @Override
@@ -31,8 +31,8 @@ public class MakeStudentActivity extends AppCompatActivity {
 
         /*init actionbar name*/
 
-       // getSupportActionBar().setTitle("Make Student Card");
-       // getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setTitle("Make Student Card");
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
 
         //init all textview

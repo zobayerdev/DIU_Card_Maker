@@ -30,8 +30,8 @@ public class MakeTeacherActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_make_teacher);
 
-      //  getSupportActionBar().setTitle("Make Teacher Card");
-     //   getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setTitle("Make Teacher Card");
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
 
         //init all textview

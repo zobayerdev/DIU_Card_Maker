@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419347261554",
+    "project_id": "diu-card-maker",
+    "storage_bucket": "diu-card-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419347261554:android:1414f37c460fb630f1baeb",
+        "android_client_info": {
+          "package_name": "com.juthi.diucardmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419347261554-h3naa84f68pj2nks4n67f4l6qihqs1t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juthi.diucardmaker",
+            "certificate_hash": "8d1016c6362bffee31705cec487888642de4d798"
+          }
+        },
+        {
+          "client_id": "419347261554-m27r6ka8uejj828eal7druh7tbednf7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5XZuaXwdyEyWhGlS7rUB5WSsVuqKfj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419347261554-m27r6ka8uejj828eal7druh7tbednf7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
