@@ -58,11 +58,9 @@ public class MainActivity extends AppCompatActivity {
                 int itemId = item.getItemId();
                 if (itemId == R.id.bottom_menu_home) {
                     loadHomeFragment();
-                }
-                else if (itemId == R.id.bottom_menu_about) {
+                } else if (itemId == R.id.bottom_menu_about) {
                     loadAboutFragment();
-                }
-                else if (itemId == R.id.bottom_menu_teacher) {
+                } else if (itemId == R.id.bottom_menu_teacher) {
                     loadTeacherFragment();
                 } else {
                     Toast.makeText(MainActivity.this, "Invalid Click", Toast.LENGTH_SHORT).show();
@@ -106,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.nav_add_teacher:
                 // startActivity(new Intent(MainActivity.this, AdminActivity.class));
                 Toast.makeText(this, "Add Teacher Details", Toast.LENGTH_SHORT).show();
-                startActivity(new Intent(MainActivity.this, AddTeacherActivity .class));
+                startActivity(new Intent(MainActivity.this, AddTeacherActivity.class));
                 break;
 
             case R.id.nav_teacher:
